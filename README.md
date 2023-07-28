@@ -83,4 +83,4 @@ This project is open-source and available under the [MIT License](LICENSE). Feel
 
 ---
 
-Congratulations! You have successfully set up and run the Laravel CRUD project. If you encounter any issues or have questions, feel free to reach out for support. Happy coding!
+🎉 Congratulations! You have successfully set up and run the Laravel CRUD project. If you encounter any issues or have questions, feel free to reach out for support. Happy coding!
