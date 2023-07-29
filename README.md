@@ -60,6 +60,8 @@ php artisan migrate
 php artisan db:seed
 ```
 
+<b>Note</b>: To edit the UI of the project, go to resources\views\products.
+
 ## 🏃🏽Running the Application
 
 To start the development server, run the following command:
